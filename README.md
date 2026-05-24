@@ -60,7 +60,6 @@ Veilhaus is a modern, luxury fashion e-commerce website built with React.js. The
 - npm or yarn package manager
 
 ### Steps to Run Locally
-
 1. **Clone the repository**
 ```bash
 git clone https://github.com/yourusername/veilhaus.git
