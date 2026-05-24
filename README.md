@@ -1,6 +1,5 @@
 # Veilhaus - Luxury Fashion E-Commerce
 
-
 ## 📋 Overview
 
 Veilhaus is a modern, luxury fashion e-commerce website built with React.js. The platform showcases a curated collection of premium clothing with a focus on quiet luxury, intentional design, and sustainable fashion. The website features smooth animations, responsive design, and an elegant user interface.
